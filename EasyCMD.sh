@@ -70,6 +70,7 @@ help
 ;;
 *)
 $com
+echo "$com" > /etc/EasyCMD/query.txt
 ;;
 esac
 
