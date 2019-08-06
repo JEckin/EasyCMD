@@ -69,8 +69,8 @@ option
 help
 ;;
 *)
-$com
 echo "$com" >> /etc/EasyCMD/query.txt
+$com
 ;;
 esac
 
