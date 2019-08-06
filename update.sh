@@ -1,7 +1,7 @@
 #!/bin/bash
-rm /bin/easycmd
-rm /bin/cmd
-git clone https://github.com/jeckin/EasyCMD /etc/EasyCMD/update
-chmod +x /etc/EasyCMD/update/install.sh
-/etc/EasyCMD/update/install.sh
-rm -r /etc/EasyCMD/update
+git clone https://github.com/jeckin/EasyCMD /opt/EasyCMD/
+chmod +x /opt/EasyCMD/install.sh
+chmod +x /opt/EasyCMD/uninstall.sh
+/opt/EasyCMD/uninstall.sh
+/opt/EasyCMD/install.sh
+rm -r /opt/EasyCMD
