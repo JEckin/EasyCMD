@@ -1,4 +1,19 @@
 # EasyCMD
 A little tool to navigate simple
 
-Alpha-Phase
+# Installation
+```
+cd easycmd
+
+chmod +x install.sh
+
+./install.sh
+```
+# Uninstallation
+```
+cd easycmd
+
+chmod +x uninstall.sh
+
+./uninstall.sh
+```
