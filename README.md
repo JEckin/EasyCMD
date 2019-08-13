@@ -1,2 +1,4 @@
 # EasyCMD
-Move files Easier
+A little tool to navigate simple
+
+Alpha-Phase
